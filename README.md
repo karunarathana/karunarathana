@@ -16,7 +16,7 @@
 
  💬 Ask me about **Java,C++,Firebase,Sql,Mysql..... or anything [here]https://github.com/karunarathana/karunarathana.git)**
 
- ⚡ Fun fact **Play some Horror game in night and Ask music**
+ ⚡ Fun fact **Play some Horror game in night and listen music**
  
  </div>
  
