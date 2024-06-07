@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently Studing on **Front End Technologies**
+ 🔭 I’m currently Studing on **🚀 MERN Stack Technologies🚀**
  
- 🌱 I’m currently learning **HTML CSS JavaScript PHP ReactJs**
+ 🌱 I’m currently learning **🟢🔴HTML CSS JavaScript ReactJs NodeJS Express JS MongoDB🔴🟢**
 
  💬 Ask me about **Java,C++,Firebase,Sql,Mysql,React,NodeJS,Express JS..... or anything 
 
