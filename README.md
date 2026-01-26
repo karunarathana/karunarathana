@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently Studing on **🚀 Angular & Spring Boot & Devops Technologies🚀**
+ 🔭 I’m currently Studing on **🚀 React js & Spring Boot & Devops Technologies🚀**
  
  🌱 I’m currently learning **🟢🔴ReactJs,Angular,Spring Boot🔴🟢**
 
